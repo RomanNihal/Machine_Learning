@@ -34,7 +34,7 @@ Learning machine learning is a journey, and this repository reflects my progress
 ## Future Goals  
 - Dive deeper into supervised and unsupervised learning.  
 - Explore neural networks and deep learning.  
-- Work on real-world datasets and build end-to-end machine learning pipelines.  
+- Work on real-world datasets and build end-to-end machine learning pipelines. 
 
 ## Connect with Me  
 If you have suggestions, resources, or just want to connect, feel free to reach out!  
